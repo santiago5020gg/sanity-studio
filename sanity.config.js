@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'oldlace-hamster',
 
-  projectId: '80jgfc1u',
+  projectId: '2fk1q1uh',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
